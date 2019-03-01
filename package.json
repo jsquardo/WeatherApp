@@ -1,0 +1,14 @@
+{
+  "name": "theweather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch sass/main.scss -o css"
+  },
+  "author": "Johnny Squardo",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
