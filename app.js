@@ -26,6 +26,8 @@ window.addEventListener('load', () => {
                 // Set Icon
                 setIcons(icon, document.querySelector('.icon'));
 
+                
+
             })
         });
     }
